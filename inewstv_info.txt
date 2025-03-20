@@ -1,0 +1,6 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+
+iNews | Indonesia | http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png | INews
+https://www.youtube.com/watch?v=Wssop82LUF8&ab_channel=OfficialiNews
