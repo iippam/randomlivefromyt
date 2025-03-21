@@ -17,6 +17,6 @@ echo m3u grabbed
 
 #./git_schedule.sh
 cd /root/
-git_test.sh
+./git_test.sh
 
 echo push and commit
