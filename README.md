@@ -28,5 +28,7 @@ chmod +x autorun.sh
 Do not forget to add a cron job set for every 4 hours(or 5) if you plan to run the script locally.
 
 ``` bash
-0,30 * * * * /home/ladmin/randomlivefromyt/autorun.sh
+#0,30 * * * * /home/ladmin/randomlivefromyt/autorun.sh
+#0 * * * * /home/ladmin/randomlivefromyt/scripts/git_schedule.sh
+0 * * * * /home/ladmin/randomlivefromyt/scheduled_channel.sh
 ```

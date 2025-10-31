@@ -21,8 +21,11 @@ python3 liputan6.py > ../liputan6.m3u8
 
 echo m3u grabbed
 
+echo ########################
+echo ____push and commit____
+echo ########################
 ./git_schedule.sh
 #cd /root/
 #./git_test.sh
 
-echo push and commit
+echo push and commit DONE
