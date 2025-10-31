@@ -24,4 +24,6 @@ chmod +x autorun.sh
 ./autorun.sh
 ```
 
+### Crontab
 Do not forget to add a cron job set for every 4 hours(or 5) if you plan to run the script locally.
+0,30 * * * * /home/ladmin/randomlivefromyt/autorun.sh
